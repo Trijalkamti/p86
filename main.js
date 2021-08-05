@@ -20,5 +20,5 @@ sound = "bdayaudio.mp3"
  }
 
 function playSound(){
-    x.playSound(sound);
+    x.play();
 }
